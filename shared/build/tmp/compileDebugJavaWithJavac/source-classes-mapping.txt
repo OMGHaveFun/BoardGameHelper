@@ -1,0 +1,2 @@
+team/cornflower/boardgamehelper/android/BuildConfig.java
+ team.cornflower.boardgamehelper.android.BuildConfig
